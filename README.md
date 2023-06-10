@@ -43,8 +43,6 @@ We are all time travelers! albeit only in one direction. And cats. 'nuff said
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaPrasad275&show_icons=true&theme=radical)](https://github.com/AdityaPrasad275)
 
-[![Your contribution graph](https://activity-graph.herokuapp.com/graph?username=AdityaPrasad275&theme=github)](https://github.com/AdityaPrasad275)
-
 ## 🤝 Contributing
 
 If you'd like to contribute to any of my projects, please feel free to submit a pull request or open an issue. I appreciate any feedback or suggestions!
