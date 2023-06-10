@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Aditya Prasad! 👋
-
-Welcome to my GitHub profile! I Like to build stuff! Any stuff!. Here you'll find a collection of my personal projects, contributions to open-source, and various experiments.
+# Hello There 👋
+I'm Aditya Prasad, you can call me tacho! Welcome to my GitHub profile! I Like to build stuff! Any stuff!. Here you'll find a collection of my personal projects, contributions to open-source, and various experiments.
 
 ## 🔭 Current Projects
 
@@ -42,7 +41,9 @@ We are all time travelers! albeit only in one direction. And cats. 'nuff said
 
 ## 🌟 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaPrasad275&show_icons=true&theme=radical)](https://github.com/your-username)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaPrasad275&show_icons=true&theme=radical)](https://github.com/AdityaPrasad275)
+
+[![Your contribution graph](https://activity-graph.herokuapp.com/graph?username=AdityaPrasad275&theme=github)](https://github.com/AdityaPrasad275)
 
 ## 🤝 Contributing
 
