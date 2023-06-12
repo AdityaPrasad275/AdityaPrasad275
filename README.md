@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello There 👋
-I'm Aditya Prasad, you can call me tacho! Welcome to my GitHub profile! I Like to build stuff! Any stuff!. Here you'll find a collection of my personal projects, contributions to open-source, and various experiments.
+I'm Aditya Prasad, you can call me tacho! Welcome to my GitHub profile!. Here you'll find a collection of my personal projects, contributions to open-source, and various experiments.
 
 ## 🔭 Current Projects
 
@@ -29,10 +29,7 @@ I enjoy working with the following technologies and tools:
 - Programming Languages: C++, Python
 ## 📫 Contact Me
 
-If you have any questions or would like to collaborate, feel free to reach out to me through the following channels:
-
-- [Email](adityanprasad275@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/adityanpd/) 
+If you have any questions or would like to collaborate, feel free to reach out to me through [Email](adityanprasad275@gmail.com) or [LinkedIn](https://www.linkedin.com/in/adityanpd/) 
 
 ## ✨ Fun Fact
 
