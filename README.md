@@ -20,7 +20,7 @@ I'm Aditya Prasad, you can call me tacho! Welcome to my GitHub profile!. Here yo
 
 - [LeetCode DSA 150](https://github.com/AdityaPrasad275/Leetcode_DSA): Follows NeetCode's rodemap for 150 Top DSA Questions across many fundamental programming concepts.
 - [H5P solver](https://github.com/AdityaPrasad275/cl246-h5p-solver): College-life-long project to automate moodle h5p lectures.
-- [Comic GPT](https://www.notion.so/ComicGPT-ec6d472d1e264ad9b74d6f08a03b429d): A prompt to manga/animation generator using Stable Diffusion.
+- [Attendance verification app](https://github.com/AdityaPrasad275/Attendance-verification-app): An app for both instructors and students to track attendance in courses, with a few more pleasing to mind features
 
 ## 🌱 Technologies and Tools
 
