@@ -16,11 +16,14 @@ Here are some ideas to get you started:
 # Hello There 👋
 I'm Aditya Prasad, you can call me tacho! Welcome to my GitHub profile!. Here you'll find a collection of my personal projects, contributions to open-source, and various experiments.
 
-## 🔭 Current Projects
+# Current projects
+- [CSES in-browser IDE](https://github.com/AdityaPrasad275/cses-ide) - CSES problem set with a leetcode style in-browser ide
+- [AI assisted journalling](https://github.com/AdityaPrasad275/journalling) - Journalling but having AI ask you thought provoking questions to enhance self reflection
 
+## 🔭 Projects I enjoyed building
+- [InteReview.ai](https://github.com/AdityaPrasad275/mock-interview-ai) : Interviewer-reviewer loop to help you get through classic interview questions + reviwer to help you iteratively improve your answers
 - [LeetCode DSA 150](https://github.com/AdityaPrasad275/Leetcode_DSA): Follows NeetCode's rodemap for 150 Top DSA Questions across many fundamental programming concepts.
-- [H5P solver](https://github.com/AdityaPrasad275/cl246-h5p-solver): College-life-long project to automate moodle h5p lectures.
-- [Attendance verification app](https://github.com/AdityaPrasad275/Attendance-verification-app): An app for both instructors and students to track attendance in courses, with a few more pleasing to mind features
+- [H5P solver](https://github.com/AdityaPrasad275/cl246-h5p-solver): College-life-long project to automate moodle h5p lectures. Just as i perfected it, they added sso login :( 
 
 ## 🌱 Technologies and Tools
 
